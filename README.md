@@ -8,7 +8,7 @@ pip install spepper
 
 ## Usage
 Simply import the package somewhere in your code.
-```bash
+```python
 import pepper
 
 ... # your code
